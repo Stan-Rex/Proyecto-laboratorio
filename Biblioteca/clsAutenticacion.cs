@@ -9,7 +9,7 @@ namespace Biblioteca
     public class clsAutenticacion
     {
         public string usuario = "Stalin";
-        public string clave = "12345678";
+        public string clave = "123abcd";
         public bool Autenticacion(string usuarioIngresado, string claveIngresada)
         {
             if (usuarioIngresado == usuario && claveIngresada == clave)
