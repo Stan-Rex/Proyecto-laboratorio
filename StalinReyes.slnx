@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Biblioteca/Biblioteca.csproj" Id="923ec3a7-b707-49bc-9f35-04a47482e54c" />
+  <Project Path="Escritorio/Escritorio.csproj" Id="d33eeed5-c50d-4c7c-b763-34ae7fd19e45">
+    <BuildDependency Project="Biblioteca/Biblioteca.csproj" />
+  </Project>
+</Solution>
